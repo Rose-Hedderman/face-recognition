@@ -1,3 +1,4 @@
+This repository has a lot of issues with version control as well as accesses images in bin files which was new to me. I have added an appropriate environment.yml file to prepare the data, run evaluation scripts, and test the pretrained models on videos.
 
 # GhostFaceNets
 
